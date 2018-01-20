@@ -1,2 +1,3 @@
 elasticsearch/data
 elasticsearch/logs
+logstash/pipeline/*.conf
